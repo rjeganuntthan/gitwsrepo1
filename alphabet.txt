@@ -2,5 +2,6 @@ ABCDEFG
 HIJK
 LMNOP
 QRS
+XYZ
 Now I know my ABC's
 Why wont you sing with me
